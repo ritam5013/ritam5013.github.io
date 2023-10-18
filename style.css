@@ -24,12 +24,14 @@ ul {
 
     display: flex;
     justify-content: space-between;
-
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 20px;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
 
 }
+
+
 
 a {
    text-decoration: none;
@@ -66,7 +68,7 @@ h3 {
 p {
     font-size: 24px;
     font-weight: 300;
-    margin-bottom: 30px;
+
     color: #DBDBDB;
 }
 
@@ -78,5 +80,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-}
 
+    margin-bottom: 20px;
+}
